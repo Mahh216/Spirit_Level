@@ -4,4 +4,4 @@ Spirit Balancer is an instrument designed to indicate whether a surface is horiz
 
 Application has been wrote using programing languages- JavaScript, CSS, HTML. Also the use of j-query. Programing software Brackets, and then the use of Github and PhoneGap Build.
 
-Has been tested on Google pixel 2, Samsung S9. App should be compatible with all Android devices. iOS devices haven't yet been tested on. So any Android device should work.
+Has been tested on Google pixel 2, Samsung S9. App should be compatible with all Android devices. iOS devices haven't yet been tested on. So any Android device should work. 
