@@ -38,8 +38,8 @@ function handleOrientation(event) {
   y += 90;
 
   if(test==0){
-    bubble.style.top = maxY * x / 150 - 26 + "px";
-    bubble.style.left = maxX * y / 150 - 26 + "px";
+    bubble.style.top = maxY * x / 150 - 25 + "px";//position of target
+    bubble.style.left = maxX * y / 150 - 25 + "px";
   }
   else{
 
