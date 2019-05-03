@@ -5,10 +5,10 @@
     versionCode = "2"
     version     = "2.1" >
 
-  <name>Sprit Level</name>
+  <name>Spirit Level</name>
 
   <description>
-    Use your phone as a spirit level
+    Use your phone as a Spirit level
   </description>
 
   <gap:platform name="android" />
