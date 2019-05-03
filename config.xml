@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ham.bubbble"
+    versionCode = "2"
+    version     = "2.1" >
+
+  <name>Sprit Level</name>
+
+  <description>
+    Use your phone as a spirit level
+  </description>
+
+  <gap:platform name="android" />
+
+  <content src="index.html"/>
+
+  <preference name="Fullscreen" value="true"/>
+
+  <preference name="Orientation" value="portrait"/>
+
+  <plugin name="cordova-plugin-file"/>
+
+
+  <author email="mahh2_16@uni.worc.ac.uk"></author>
+
+
+</widget>
